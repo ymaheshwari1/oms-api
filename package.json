@@ -16,10 +16,6 @@
     "eslint": "^8.16.0",
     "typescript": "^4.7.2"
   },
-  "files": [
-    "lib/**/*",
-    "src/**/*"
-  ],
   "dependencies": {
     "axios": "^0.21.1",
     "axios-cache-adapter": "^2.7.3",
