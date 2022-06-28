@@ -18,7 +18,7 @@
   },
   "files": [
     "lib/**/*",
-    "src/**/*",
+    "src/**/*"
   ],
   "dependencies": {
     "axios": "^0.21.1",
